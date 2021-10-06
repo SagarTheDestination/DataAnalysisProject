@@ -1,6 +1,6 @@
 # FDI-In_Various_Sector_of_India-
 
-FDI(Foreign Direct investment) is the most imporant pert now days hence, Increase the employment.
+FDI(Foreign Direct investment) is the most imporant part now days hence, Increase the employment.
 FDI data analysis better for it from the prespective in which sector it will be benificial to start the work.
 
 ##  problem Statement for Analysis 
