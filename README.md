@@ -1,7 +1,7 @@
 # FDI-In_Various_Sector_of_India-
 
 FDI(Foreign Direct investment) is the most imporant part now days hence, Increase the employment.
-FDI data analysis better for it from the prespective in which sector it will be benificial to start the work.
+FDI data analysis better for it from the prespective in which sector it will be benificial idea to start the work.so that company can collaborate with FDI for become successful.  
 
 ##  problem Statement for Analysis 
 
